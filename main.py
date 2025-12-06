@@ -4,7 +4,7 @@ b = int(input("Enter the second numeber : "))
 
 added_Result = addition(a , b)
 
-print(f"the addition of {a} and {b} is {added_Result}")
+print(f"the addition of {a} and {b} resulted {added_Result}")
 
 
 
