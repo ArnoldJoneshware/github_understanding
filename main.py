@@ -7,11 +7,3 @@ added_Result = addition(a , b)
 print(f"the addition of {a} and {b} resulted {added_Result}")
 
 
-
-
-# if __name__ == "__main__":
-
-#     main()
-
-# if __name__ == "__main__":
-#     main()
